@@ -7,7 +7,7 @@
 - [Business Task](#Business-Task)
 - [Data Sources Used](#Data-Sources-Used)
 - [Observations](#Observations)
-- [Insights](#Insights)
+- [Key Insights](#Key-Insights)
 - [Recommendations](#Recommendations)
 
 
@@ -41,6 +41,22 @@ The following are visualizations which help to understand the insights of the an
 ![image](https://user-images.githubusercontent.com/50827301/227127033-90f00637-ed93-488b-864c-6865db897915.png)
 
 ![image](https://user-images.githubusercontent.com/50827301/227127061-3635156c-3093-426e-99bd-2bb381b935bc.png)
+
+
+## Key Insights
+<html>
+  <body>
+<ul>
+  <li>Casual Riders count is highest in the month of July 2022 and Annual Member count is highest in the month of September 2022.
+</li>
+  <li>Most of the users take most of the rides on Thursdays.
+</li>
+  <li>Longest Average Rides of both Annual Members and Casual Riders are taken on Saturday and Sunday.
+</li>
+  <li>Average Ride of Casual Riders is almost double that of Annual Members.<\li>
+ </ul>
+  </body>
+  </html>
 
 
   
