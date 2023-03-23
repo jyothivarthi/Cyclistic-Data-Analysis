@@ -5,6 +5,6 @@
 - [Business Task](#Business Task)
 - [Data Sources Used](#Data Sources Used)
 - [Observations](#Observations)
--[Insights](#Insights)
+- [Insights](#Insights)
 - [Recommendations](#Recommendations)
 
