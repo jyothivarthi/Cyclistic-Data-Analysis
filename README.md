@@ -21,9 +21,16 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 
 ## Data Sources Used
-->Analysis done on Historical data collected by Cyclistic company.
-->Includes data from February 2022 to January 2023.
-->Data includes rides taken by Annual Members and Casual Riders
+<html>
+  <body>
+<ul>
+Analysis done on Historical data collected by Cyclistic company.
+Includes data from February 2022 to January 2023.
+Data includes rides taken by Annual Members and Casual Riders
+ </ul>
+  </body>
+  </html>
+  
 
 
 
