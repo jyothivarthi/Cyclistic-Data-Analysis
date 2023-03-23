@@ -9,6 +9,7 @@
 - [Observations](#Observations)
 - [Key Insights](#Key-Insights)
 - [Recommendations](#Recommendations)
+- [Acknowledgement](#Acknowledgement)
 
 
 
@@ -71,6 +72,9 @@ The following are visualizations which help to understand the insights of the an
   </body>
   </html>
 
+
+## Acknowledgments
+Special thanks to Coursera (Google Data Analytics Professional Certificate) for providing the dataset for this project.
   
 
 
