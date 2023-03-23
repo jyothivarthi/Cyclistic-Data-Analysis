@@ -34,10 +34,9 @@ How do annual members and casual riders use Cyclistic bikes differently?
   
 ## Observations
 The following are visualizations which help to understand the insights of the analysis:
-![image](https://user-images.githubusercontent.com/50827301/227129548-a3b4e9ec-bb09-454b-822d-237f01159203.png)![image](https://user-images.githubusercontent.com/50827301/227129628-985cefb3-dc2a-4763-8232-be47454d6147.png)
+![image](https://user-images.githubusercontent.com/50827301/227130389-d53c20a9-5fb3-43eb-a504-e0eabbdca2e8.png)![image](https://user-images.githubusercontent.com/50827301/227130460-e2517df8-9104-4b9f-afae-ad603448bbef.png)
 
-![image](https://user-images.githubusercontent.com/50827301/227130085-58ef5f46-eee2-4461-b598-63c3013f72b4.png)![image](https://user-images.githubusercontent.com/50827301/227130149-ab6d00a4-8262-4b07-8d00-476db244b4e7.png)
-
+![image](https://user-images.githubusercontent.com/50827301/227130537-80dc67ec-ed26-456a-b0a0-daed7a6b4f5d.png)![image](https://user-images.githubusercontent.com/50827301/227130601-c423236a-930d-4969-9e84-25e6ab204ac6.png)
 
 
 ## Key Insights
