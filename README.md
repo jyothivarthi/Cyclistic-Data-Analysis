@@ -20,4 +20,11 @@ A portfolio project involving a detailed analysis of historical data to showcase
 How do annual members and casual riders use Cyclistic bikes differently?
 
 
+## Data Sources Used
+->Analysis done on Historical data collected by Cyclistic company.
+->Includes data from February 2022 to January 2023.
+->Data includes rides taken by Annual Members and Casual Riders
+
+
+
 
