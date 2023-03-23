@@ -25,11 +25,24 @@ How do annual members and casual riders use Cyclistic bikes differently?
   <body>
 <ul>
   <li>Analysis done on Historical data collected by Cyclistic company.</li>
-  <li>Includes data from February 2022 to January 2023.</li>
+  <li>Includes monthly data from February 2022 to January 2023.</li>
   <li>Data includes rides taken by Annual Members and Casual Riders</li>
  </ul>
   </body>
   </html>
+
+  
+## Observations
+The following are visualizations which help to understand the insights of the analysis:
+![image](https://user-images.githubusercontent.com/50827301/227126937-0cd928c8-e3df-47b6-9289-f41d4b3376ea.png)
+
+![image](https://user-images.githubusercontent.com/50827301/227127001-603375e1-8845-4bd4-b0c3-27ece9089cda.png)
+
+![image](https://user-images.githubusercontent.com/50827301/227127033-90f00637-ed93-488b-864c-6865db897915.png)
+
+![image](https://user-images.githubusercontent.com/50827301/227127061-3635156c-3093-426e-99bd-2bb381b935bc.png)
+
+
   
 
 
