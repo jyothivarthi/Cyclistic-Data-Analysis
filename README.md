@@ -42,6 +42,9 @@ The following are visualizations which help to understand the insights of the an
 
 ![image](https://user-images.githubusercontent.com/50827301/227127061-3635156c-3093-426e-99bd-2bb381b935bc.png)
 
+![image](https://user-images.githubusercontent.com/50827301/227128736-ff70de4c-2f64-4582-b502-e4dc2d257fa4.png)
+
+
 
 ## Key Insights
 <html>
