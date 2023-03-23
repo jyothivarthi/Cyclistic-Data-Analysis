@@ -53,11 +53,27 @@ The following are visualizations which help to understand the insights of the an
 </li>
   <li>Longest Average Rides of both Annual Members and Casual Riders are taken on Saturday and Sunday.
 </li>
-  <li>Average Ride of Casual Riders is almost double that of Annual Members.<\li>
+  <li>Average Ride of Casual Riders is almost double that of Annual Members.</li>
  </ul>
   </body>
   </html>
-
+  
+  
+  ## Recommendations
+  
+<html>
+  <body>
+<ul>
+  <li>Maximum number of cycles need be available in the months of June, July and August.
+</li>
+  <li>Host a Cyclothon on any Thursday in the month of July. This creates opportunity to convert Casual Riders to Annual Members.
+</li>
+  <li>Create Earned Credits for the rides taken more than 20 minutes per day by Annual Members.
+</li>
+  <li>Provide discounts in the months of May, June and July specially on Saturday and Sunday of the week for Casual Riders.</li>
+ </ul>
+  </body>
+  </html>
 
   
 
